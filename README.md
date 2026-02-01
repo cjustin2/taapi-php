@@ -1,5 +1,7 @@
 # TAAPI PHP Library
 
+![TAAPI PHP](https://github.com/user-attachments/assets/69dae5e6-56bc-4973-9ea2-920f9eaa7d75)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.1-blue)](https://php.net)
 
